@@ -1,0 +1,33 @@
+#!/usr/bin/python
+
+# Tac_py
+
+#About
+
+#clear Term
+print "\033c"
+
+
+print """
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%                                    %%%
+	%%%          Tactical_Python           %%%
+	%%%                                    %%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+"""
+print "\t\t\033[1;34mThe Python Scripts for \033[1;33mTac_Slack\033[0m\n"
+
+print """\033[1;34mPython Programs:\033[0m
+-System Programs
+--Sack
+ + better off with sh & Bash?
+--XFCE
+
+-Tac Programs
+ + gun used tracker -- spread sheet
+ + most thing -- spread sheet
+
+>>>>>>\033[1;34mJust USE \033[1;33mPYTHON\033[0m<<<<<<
+"""
+raw_input(">>")
