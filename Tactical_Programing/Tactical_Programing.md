@@ -6,7 +6,6 @@ Programs, scripts, and x created for TacSlack
 Ideas
 ------
 
-### Linux / System
 
 ### TacSlack
 The Normal useage reasons.
@@ -22,7 +21,7 @@ The Normal useage reasons.
 
 #### Gunsmithing
 
-+ ???
++ LandingPad with JS scripts
 + ????
 + ?????
 
@@ -38,4 +37,24 @@ The Normal useage reasons.
 ### W3
 The web sites that shooting and such spawns will require python (and 
 others) IOT run. 
+
+Langs
+---------
++ Main
+ + Python3
+ + Bash/sh
+ + JS (web & LPs)
++ Others
+ + julia
+ + rust
+ + curl
+ + ruby
+
+
+
+
+
+
+
+
 
