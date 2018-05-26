@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+# GR2G - - Grams to Grains conversion
+
+# USEAGE -- $g2gr [grams]
+
+from sys import argv
+script,conv_grams=argv
+conv_grams=float(conv_grams)
+convd_grains=conv_grams / 0.06479891
+print "\n\t%s grams == %s grains\n\n" % (conv_grams, convd_grains)
