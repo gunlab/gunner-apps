@@ -7,6 +7,9 @@ Gunner Apps
 
 
 
+All The **Apps**, **Scripts**, and ***WebTech*** That I can think of.
+
+
 Tactical Python
 ----------------
 
@@ -28,3 +31,5 @@ Atom and others don't have a command prompt / terminal option. So don't have the
 best of chooices on editors. 
 
 It is **Slackware**; *Vim and Terminal* are expected to get top usage.
+
+

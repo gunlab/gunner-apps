@@ -1,6 +1,12 @@
 Tac Slack Programing
 ======================
 
+
+> THE Slackware Enviro, Code Dump and placeholder
+
+
+
+
 Programs, scripts, and x created for TacSlack
 
 Ideas
