@@ -6,8 +6,8 @@ Tac Slack Programing
 
 
 
+**Programs, scripts, and x created for TacSlack**
 
-Programs, scripts, and x created for TacSlack
 
 Ideas
 ------

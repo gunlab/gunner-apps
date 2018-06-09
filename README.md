@@ -10,15 +10,25 @@ Gunner Apps
 All The **Apps**, **Scripts**, and ***WebTech*** That I can think of.
 
 
-Tactical Python
-----------------
 
-Python3 is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
-What it builds I don't know but do know it will probially be built in Python.
+Langs
+---------
++ Main
+ + Python3
+ + Bash/sh
+ + JS (web & LPs)
++ Others
+ + julia
+ + rust
+ + curl
+ + ruby
 
 
-### Editing
 
+
+
+Editing
+--------
 
 **Editors**
 + nano
