@@ -5,6 +5,4 @@ public/
 *.tar.*
 *#
 *.ods
-*.x
 *.tmp
-.x/
