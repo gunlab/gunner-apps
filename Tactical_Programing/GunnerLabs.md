@@ -22,3 +22,9 @@ Install
   + Android/Iphone enviro
 + Web Tech / IOT
  + *Drachenschwert* enviro?
+
+ Tactical Python
+-----
+
+ Python3 is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
+ What it builds I don't know but do know it will probially be built in Python.

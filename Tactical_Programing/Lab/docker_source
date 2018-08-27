@@ -9,7 +9,7 @@
 
 
 #  change PS1
-export PS1="\[\e[1;31m\]Drachenkäfig: \[\e[2;31m\]\W\[\e[0m\]:: "
+export PS1="\[\e[1;31m\]Gunner: \[\e[2;31m\]\W\[\e[0m\]:: "
 
 
 
