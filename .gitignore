@@ -1,4 +1,9 @@
+public/
+.TMP/
 *.odt
+*.ott
+*.tar.*
+*#
 *.ods
 *.x
 *.tmp
