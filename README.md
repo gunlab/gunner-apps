@@ -3,61 +3,9 @@ Gunner Apps
 
 > Tactical Programing
 
-----
-
-
-
 All The **Apps**, **Scripts**, and **WebTech** That I can think of.
 
 
-
-Langs
----------
-+ Main
- + Python3
- + Bash/sh
- + JS (web & LPs)
-+ Others
- + julia
- + rust
- + curl
- + ruby
-
-
-Editing
---------
-
-**Editors**
-+ nano
-+ Vim
-+ mousepad?
-+ kate?
-+ geany? (NO --gtk based)
-
-Atom and others don't have a command prompt / terminal option. So don't have the
-best of chooices on editors.
-
-It is **Slackware**; *Vim and Terminal* are expected to get top usage.
-
-
-Gunner Labs
-==============
-
-+ Programming Enviros
- + Py, Ruby, Rust, C/C++, js
-+ Docker
-
-
-**IDEs**
-
-Install
-+ git
-+ atom?
-+ geany
-+ as know / needed
-
-
-***SAME *lAB* AS ALL OTHERS** --- INCLUDING DOCKER ---***
 
 + Scripts
 + Apps
@@ -66,8 +14,41 @@ Install
  + *Drachenschwert* enviro?
 
 
+--------
+
+
+Gunner Labs
+------------
+**SAME *__LAB__* AS ALL OTHERS --- INCLUDING DOCKER ---**
+
+### Langs & Enviros
++ Main
+ + Python3
+ + Android/iPhone
+ + *Docker*
+ + Bash/sh
+ + JS (web & LPs)
+ + Rust
++ Others
+ + julia
+ + curl
+ + Ruby
+ + nodeJS
+ +
+
+
+
+### Editing / IDEs
++ Vim!!!!
++ Docker
++ atom?
++ geany
++ as know / needed
+
+It is **Slackware**; *Vim and Terminal* are expected to get top usage.
+
 
 ###  Tactical Python
 
-Python3 is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
+Python3 [Tacpy] is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
 What it builds I don't know but do know it will probially be built in Python.
