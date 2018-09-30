@@ -50,5 +50,5 @@ It is **Slackware**; *Vim and Terminal* are expected to get top usage.
 
 ###  Tactical Python
 
-Python3 [Tacpy] is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
+Python3 **Tacpy** is a big builder of [Custom Apps & Programs](#) for **TAC-Slack**.
 What it builds I don't know but do know it will probially be built in Python.
