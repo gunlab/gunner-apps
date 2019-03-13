@@ -10,16 +10,17 @@ print("""
 \t1) Grains to Grams
 \t2) Grams to Grains
 """)
-convert_unit=raw_input("Select 1 or 2  >> ")
+convert_unit = raw_input("Select 1 or 2  >> ")
 
 if convert_unit == "1":
     print("\tGrains to Grams\n")
-    gr_t_g=float(raw_input("Enter Grains  >> "))
-    g_f_gr=float(gr_t_g * 0.06479891)
+    gr_t_g = float(raw_input("Enter Grains  >> "))
+    g_f_gr = float(gr_t_g * 0.06479891)
     print("%s grains == %s grams" % (gr_t_g, g_f_gr))
 elif convert_unit == "2":
     print("\tGrams to Grains")
-    g_t_gr=float(raw_input("Enter Grams  >> "))
-    gr_f_g=float(g_t_gr / 0.06479891)
+    g_t_gr = float(raw_input("Enter Grams  >> "))
+    gr_f_g = float(g_t_gr / 0.06479891)
     print("%s grams == %s grains" % (g_t_gr, gr_f_g))
-else: print("error")
+else:
+    print("error")
