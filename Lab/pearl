@@ -1,4 +1,0 @@
-#!/usr/bin/perl
-print "Yes, We should learn Perl\a\n";
-$pearlString="Pearl is good, perl is friend";
-print "Because $pearlString\n";
