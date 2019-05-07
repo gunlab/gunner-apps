@@ -1,12 +1,10 @@
-Tac Slack Programing
-======================
+# Programing Ideas
 
 
 **Programs, scripts, and x created for TacSlack**
 
 
-Ideas
-------
+## Ideas
 
 
 ### TacSlack
@@ -18,12 +16,11 @@ The Normal useage reasons.
 
 #### Shooting
 + tracking of accuracy
-+ easy *Dope* settings
-+ MATH
++ easy *Dope* settings & tracking
++ _MATH_
 
 
 #### Gunsmithing
-+ LandingPad with JS scripts
 + ????
 + ?????
 
@@ -33,8 +30,3 @@ The Normal useage reasons.
 + Easy Read charts and data?
 + powder power conversions (math)
 + Balistics
-
-
-### W3
-The web sites that shooting and such spawns will require python (and
-others) IOT run.
