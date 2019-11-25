@@ -8,4 +8,5 @@ from sys import argv
 script, conv_grains = argv
 conv_grains = float(conv_grains)
 convd_grams = conv_grains * 0.06479891
+
 print("\n\t%s grians == %s grams\n\n" % (conv_grains, convd_grams))
